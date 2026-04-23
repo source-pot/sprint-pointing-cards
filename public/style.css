@@ -108,7 +108,7 @@ body {
 }
 
 .card__sym {
-  font-size: clamp(8rem, 40vw, 18rem);
+  font-size: min(75dvh, 85vw);
   line-height: 1;
 }
 
