@@ -100,9 +100,9 @@ body {
 }
 
 .card__val {
-  font-size: min(90vh, 75vw);
+  font-size: min(95dvh, 85vw);
   font-weight: 900;
-  line-height: 0.9;
+  line-height: 0.85;
   letter-spacing: -0.06em;
   text-shadow: 0 10px 40px rgba(0,0,0,0.35);
 }
