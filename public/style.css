@@ -100,7 +100,7 @@ body {
 }
 
 .card__val {
-  font-size: clamp(12rem, 55vw, 28rem);
+  font-size: min(90vh, 75vw);
   font-weight: 900;
   line-height: 0.9;
   letter-spacing: -0.06em;
